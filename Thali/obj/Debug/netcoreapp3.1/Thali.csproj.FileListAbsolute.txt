@@ -1,0 +1,11 @@
+C:\Users\leo\source\repos\Thali\Thali\obj\Debug\netcoreapp3.1\Thali.csprojAssemblyReference.cache
+C:\Users\leo\source\repos\Thali\Thali\obj\Debug\netcoreapp3.1\Thali.AssemblyInfoInputs.cache
+C:\Users\leo\source\repos\Thali\Thali\obj\Debug\netcoreapp3.1\Thali.AssemblyInfo.cs
+C:\Users\leo\source\repos\Thali\Thali\bin\Debug\netcoreapp3.1\Thali.exe
+C:\Users\leo\source\repos\Thali\Thali\bin\Debug\netcoreapp3.1\Thali.deps.json
+C:\Users\leo\source\repos\Thali\Thali\bin\Debug\netcoreapp3.1\Thali.runtimeconfig.json
+C:\Users\leo\source\repos\Thali\Thali\bin\Debug\netcoreapp3.1\Thali.runtimeconfig.dev.json
+C:\Users\leo\source\repos\Thali\Thali\bin\Debug\netcoreapp3.1\Thali.dll
+C:\Users\leo\source\repos\Thali\Thali\bin\Debug\netcoreapp3.1\Thali.pdb
+C:\Users\leo\source\repos\Thali\Thali\obj\Debug\netcoreapp3.1\Thali.dll
+C:\Users\leo\source\repos\Thali\Thali\obj\Debug\netcoreapp3.1\Thali.pdb
